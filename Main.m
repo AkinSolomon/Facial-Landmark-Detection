@@ -1,6 +1,5 @@
 % Akinlawon Solomon
-% HW5
-% ECE 7866
+
 
 %% Initialization
 clc;clear all
